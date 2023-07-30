@@ -1,2 +1,2 @@
-# Sort_method
+# method of sort
 about QuickSort,ChoiceSort,InsertSort....
